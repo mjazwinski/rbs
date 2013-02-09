@@ -1,7 +1,7 @@
 package com.acme.eventbus.view;
 
-import com.eventbus.client.event.ClearEvent;
-import com.eventbus.client.event.ClearEventHandler;
+import com.acme.eventbus.client.ClearEvent;
+import com.acme.eventbus.client.ClearEventHandler;
 import com.google.gwt.user.client.ui.TextBox;
 import com.google.web.bindery.event.shared.EventBus;
 

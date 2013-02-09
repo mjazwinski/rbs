@@ -1,6 +1,6 @@
 package com.acme.eventbus.view;
 
-import com.eventbus.client.event.ClearEvent;
+import com.acme.eventbus.client.ClearEvent;
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.event.shared.EventBus;
